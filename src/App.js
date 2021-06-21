@@ -10,6 +10,7 @@ function App() {
         Deployment is happening! 
         </p>
         <p>Contact me on robin@robinkardell.com</p>
+        <p>:D</p>
       </header>
     </div>
   );
