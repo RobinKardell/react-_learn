@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import './dist/css/bootstrap.min.css';
 
 function App() {
   return (
@@ -11,6 +12,9 @@ function App() {
         </p>
         <p>Contact me on robin@robinkardell.com</p>
         <p>:D</p>
+        <div class="alert alert-primary" role="alert">
+  This is a primary alert—check it out!
+</div>
       </header>
     </div>
   );
